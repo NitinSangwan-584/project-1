@@ -1,0 +1,31 @@
+Layout:
+
+CSS selectors?
+
+box-model
+    1. content-box
+    2. padding-box
+    3. border-box
+    4. margin-box
+
+box-sizing: border-box;
+
+css
+    property:value;
+
+    display: 
+            flex(
+                align-items:____; y
+                align-content:____;
+                justify-content:____; x
+                flex-direction:____;
+                flex-wrap:____;
+            ),
+            inline,
+            inline-block,
+            block,
+            none,
+            grid,
+            ...
+
+min-heigth: 100vh;
